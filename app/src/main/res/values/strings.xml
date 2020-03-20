@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloCoordinatorLayout</string>
+    <string name="triggerSnackBarButtonText">Trigger Snackbar</string>
+    <string name="helloSnackbar">Hello Snackbars !</string>
+    <string name="snackbarText">This is the Snackbar Text Message !</string>
+    <string name="undo">UNDO</string>
+    <string name="coordinatedTriggerButtonText">Trigger Coordinated Snackbar</string>
+</resources>
